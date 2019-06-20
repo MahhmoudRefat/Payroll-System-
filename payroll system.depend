@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561012236 source:c:\users\greenandroidar\documents\codeblockproject\payroll system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
